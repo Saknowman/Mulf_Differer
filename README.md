@@ -7,7 +7,6 @@ Unzip it.
 Run Differer.exe
 
 ## DEMO
-Result is in demo directory.
 ![mulf_differer_demo](https://user-images.githubusercontent.com/49089191/69853688-d5548000-12ca-11ea-9700-73743411f208.PNG)
 
 Prepare target_files.txt.
