@@ -2,8 +2,8 @@
 A diff tool to create result html from multiple files diffs.
 
 ## Getting Started
-Install zip file from here. [Install Mulf_Differer](https://github.com/Saknowman/Mulf_Differer/releases/download/ver.1.0.0.0/Mulf_Differer.zip)
-Unzip it.
+Install zip file from here. [Install Mulf_Differer](https://github.com/Saknowman/Mulf_Differer/releases/download/ver.1.0.0.0/Mulf_Differer.zip)  
+Unzip it.  
 Run Differer.exe
 
 ## DEMO
