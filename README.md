@@ -12,9 +12,9 @@ Run Differer.exe
 Prepare target_files.txt.
 
 ```txt:./target_files.txt
-./sample1.cs
-./sample2.cs
-./sample3.cs
+./sample1.txt
+./sample2.txt
+./sample3.txt
 ```
 
 Run Differer.exe
@@ -23,5 +23,11 @@ Run Differer.exe
 Target files: ./target_files.txt
 Output: result.html
 ```
+
+Programm compare diffs between
+
+- sample1 and sample2
+- sample1 and sample3
+- sample2 and sample3
 
 Open ./result.html on browser.
